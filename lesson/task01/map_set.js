@@ -1,4 +1,4 @@
-let map1 = new Map();
+let map = new Map();
 
 map.set('1', 'str1'); // строка в качестве ключа
 map.set(1, 'num1'); // число в качестве ключа
